@@ -1,2 +1,5 @@
 # tracking-squad-dashboard-streamlit
-Second dashboard iteration using streamlit
+
+A dashboard of customers tracking using streamlit and psycog2. 
+
+
